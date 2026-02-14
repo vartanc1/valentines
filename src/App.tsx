@@ -73,7 +73,7 @@ export default function Page() {
             />
 
             <h1 className="text-container">
-              Hi Angie,<br />
+                   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hi Angie<br />
               Will you be my Valentine?
             </h1>
 
