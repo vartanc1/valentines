@@ -67,13 +67,13 @@ export default function Page() {
           <>
             {/* ORIGINAL PAGE */}
             <img
-              src="https://i.makeagif.com/media/1-13-2026/HMmPX9.gif"
+              src="https://i.pinimg.com/originals/da/5f/23/da5f232ce43fa1c04b56249e51e391c5.gif"
               alt="Cute Bear"
               style={{ width: "400px", height: "240px" }}
             />
 
             <h1 className="text-container">
-                   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Lil Dummi<br />
+                   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hi Angie<br />
               Will you be my Valentine?
             </h1>
 
